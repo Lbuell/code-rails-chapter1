@@ -1,24 +1,10 @@
-Code Fellows: Rails Bootcamp
-====================
+liam@liamlaptop:~/workspace/my_project$ rake
+Run options: --seed 50888
 
-Example code from Day 1.
+# Running:
 
-A few different types of tests are included here, as examples.
+....
 
- * A specification for a simple ruby class
-   * [step-by-step blog post is available](https://gist.github.com/ivanoats/6833823)
- * A specificaiton for a simple web page
- * A specificaiton for a popular web service
- * A specificaiton for a newly-created Rails app
+Finished in 2.380733s, 1.6802 runs/s, 4.2004 assertions/s.
 
-Try getting the tests passing with your own code!
-
-Hints:
-
- * spec_helper.rb will set you up with MiniSpec.
- * Use the serve.rb script to easily get local html content browser-accessible.
- * You'll need more than 1 local webserver running to pass all specs.
-
-Have fun!
-
-© Code Fellows, 2013
+4 runs, 10 assertions, 0 failures, 0 errors, 0 skips
